@@ -71,7 +71,7 @@ It is built for **defenders**: blue teamers, sysadmins, security students, and a
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/MatrixNetWatch.git
+git clone https://github.com/whoami592/matrix_net_watch.git
 cd MatrixNetWatch
 
 # 2. (Recommended) install psutil for process names and cross-platform support
